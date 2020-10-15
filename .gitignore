@@ -3,3 +3,4 @@ credentials.py
 keys
 \__pycache__
 \tweepy_basics\credentials.py
+\twitter_bot\bot\credentials.py
